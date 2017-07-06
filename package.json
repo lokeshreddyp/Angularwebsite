@@ -1,0 +1,11 @@
+{
+  "name": "angularweb",
+  "version": "1.0.0",
+  "description": "a website which uses different features of angular like creating custom directives,modules,form validation,controllers etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lokeshreddy pothapu",
+  "license": "ISC"
+}
