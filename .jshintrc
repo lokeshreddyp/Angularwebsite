@@ -1,0 +1,5 @@
+//to make lint support to es6 we need to
+
+{
+  "esversion": 6
+}
